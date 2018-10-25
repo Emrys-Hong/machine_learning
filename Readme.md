@@ -13,7 +13,7 @@
 
 - [numpy resources and cheetsheet](https://github.com/Emrys-Hong/machine_learning/blob/master/data_science/numpy_glossary.md)
 
-- [pandas resources and cheetsheet]https://github.com/Emrys-Hong/machine_learning/blob/master/data_science/pandas.md)
+- [pandas resources and cheetsheet](https://github.com/Emrys-Hong/machine_learning/blob/master/data_science/pandas.md)
 
 ### fastai
 all learning resouces about fast.ai can be put here
@@ -21,7 +21,7 @@ all learning resouces about fast.ai can be put here
 ### coursera
 - [deep learning coursera course](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/deep_learning_Ng) contains notes, homework, table of content and slides on deep learning
 
--[machine learning coursera course](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/machine_learning_Ng) contains notes, homework,  and advice on people who take this course
+- [machine learning coursera course](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/machine_learning_Ng) contains notes, homework,  and advice on people who take this course
 
 ### NLP
 - [Named entity Recognition](https://github.com/Emrys-Hong/machine_learning/blob/master/NLP/Named_entity_recognition.md)
