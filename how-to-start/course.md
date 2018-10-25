@@ -5,10 +5,10 @@
 [morvan python](https://morvanzhou.github.io/):
 This course teach basic machine learning model/deep learning model(e.g. MNIST dataset) in various platforms(tensorflow, pytorch, theano etc); The difficulty is entry level, good for beginners.
 
-[coursera machine learning](https://www.coursera.org/learn/machine-learning)*:
+[coursera machine learning](https://www.coursera.org/learn/machine-learning) [here](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/machine_learning_Ng) for more:
 This course is know as the bible of machine learning. Andrew Ng's classic systematic way covering machine learning models such as regression and vinilla neural networks; This course can teach you a good sense of how math is applied in machine learning. the whole system is applied in matlab. It is good for beginners, but if you want you can watch his deep learning course listed below. There isn't a very big connection between these two courses.
 
-[coursera deep learning](https://www.deeplearning.ai/)*:
+[coursera deep learning](https://www.deeplearning.ai/) [here](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/deep_learning_Ng) for more:
 This is one of the most classic entry course for deep learning. The assignments are in keras, so you can familarize yourself with with keras library. The course emphasize on the theory's behind deeplearning, but at the same time each assignment gives a individual project using what you have learned each week; The course will also introduce to a lot of papers, which is good for research.
 The course covers, basic machine learning models; strategies in deep learning(e.g. overtraining vs overfitting); how to structure your deep learning project; computer vision(classification, object detection); NLP(RNNs, and attetion models).
 
@@ -55,7 +55,7 @@ This course is good for learning computer vision systematically. and It is based
 This course is good for learning computer vision systematically. and It is based on Theory.
 These blogs somtimes releases state-of-art implementation of a paper or intuitions behind a concept. get news in machine learning/deep learning from these websites. Good to include them in the google search as well haha.
 
-SUTD machine learning notes*:
+[SUTD machine learning notes](https://github.com/Emrys-Hong/machine_learning/tree/master/machine_learning_notes_SUTD):
 math; theory; intuition; basic; a lot of times not so useful in real life
 
 
