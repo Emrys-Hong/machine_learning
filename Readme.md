@@ -37,3 +37,6 @@ all the subfileds of NLP can be put here
 - [tensorflow]
 - - [install tensorflow gpu](https://github.com/Emrys-Hong/machine_learning/blob/master/utils/computer_vision/resize_image.md)
 - - [tensorflow-gpu](https://github.com/Emrys-Hong/machine_learning/blob/master/utils/computer_vision/resize_image.md) -- some useful commands when using tensorflow.
+
+### SUTD machine learning notes
+[SUTD courseware](https://github.com/Emrys-Hong/machine_learning/tree/master/machine_learning_notes_SUTD) SUTD slides and homeworks
