@@ -1,9 +1,7 @@
 ## list of machine learning/Deep learning Platforms&Tutorials
-
-
-## Courses
-[morvan python](https://morvanzhou.github.io/):
-This course teach basic machine learning model/deep learning model(e.g. MNIST dataset) in various platforms(tensorflow, pytorch, theano etc); The difficulty is entry level, good for beginners.
+### General Courses
+[SUTD machine learning notes](https://github.com/Emrys-Hong/machine_learning/tree/master/machine_learning_notes_SUTD):
+math; theory; intuition; basic; a lot of times not so useful in real life
 
 [coursera machine learning](https://www.coursera.org/learn/machine-learning) [here](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/machine_learning_Ng) for more:
 This course is know as the bible of machine learning. Andrew Ng's classic systematic way covering machine learning models such as regression and vinilla neural networks; This course can teach you a good sense of how math is applied in machine learning. the whole system is applied in matlab. It is good for beginners, but if you want you can watch his deep learning course listed below. There isn't a very big connection between these two courses.
@@ -39,6 +37,8 @@ deep learning machine learning blogs:
 [medium](https://medium.com); 
 [hacker noon](https://hackernoon.com/))
 
+
+### Individual courses
 1. Computer Vision:
 
 [Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
@@ -55,7 +55,6 @@ This course is good for learning computer vision systematically. and It is based
 This course is good for learning computer vision systematically. and It is based on Theory.
 These blogs somtimes releases state-of-art implementation of a paper or intuitions behind a concept. get news in machine learning/deep learning from these websites. Good to include them in the google search as well haha.
 
-[SUTD machine learning notes](https://github.com/Emrys-Hong/machine_learning/tree/master/machine_learning_notes_SUTD):
-math; theory; intuition; basic; a lot of times not so useful in real life
-
-
+Chinese Courses:
+[morvan python](https://morvanzhou.github.io/):
+This course teach basic machine learning model/deep learning model(e.g. MNIST dataset) in various platforms(tensorflow, pytorch, theano etc); The difficulty is entry level, good for beginners.
