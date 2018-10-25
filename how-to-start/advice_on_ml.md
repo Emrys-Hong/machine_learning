@@ -7,6 +7,10 @@ Machine learning can seems daunting, need to organize yourself and learn machine
     
 1. Taking courses is surely a necessity. but after grasping these concepts, you may want to try several kaggle competition or try to replicate some papers(this is one of the best way to learn according to [Andrew Ng](https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry)), or doing some projects.
 
+1. follow a community to share your thoughts and follow their syllabus to learn AI. learning communities:
+[nuture.ai](https://nurture.ai/), [AISaturday](https://nurture.ai/ai-saturdays), [fast.ai](www.fast.ai)
+
+
 Here is some [machine learning advice](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/) by kaggle CTO.
 
 1. pick a project you believe in.
