@@ -52,23 +52,27 @@ In conclusion they are:
 16. cheetsheets
 
 ## lists of AI projects to reimplement
-[AI project](https://github.com/llSourcell?tab=repositories) from Siraj Raval.
+- [AI project](https://github.com/llSourcell?tab=repositories):
 
-Siraj Raval curated an [awesome list](https://github.com/sindresorhus/awesome) about deep learning projects. These projects have not only datasets but also architectures, can be used  in various AI school prjects, check out [here](https://github.com/NirantK/awesome-project-ideas)
+Siraj Raval has a List of already implement interesting AI projects under his accounts.
+
+- [awesome AI projects](https://github.com/NirantK/awesome-project-ideas):
+
+Siraj Raval curated an [awesome list](https://github.com/sindresorhus/awesome) about deep learning projects. These projects have not only datasets but also architectures, can be used  in various AI school prjects.
 
 ### machine learning interview question
-[Spring board](https://www.springboard.com/blog/machine-learning-interview-questions/)
+- [Spring board](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 
 
-### twitter
-people to follow on twitter [quota answer](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information)
+### follow machine learning celebrities on twitter
+- [quota answer](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information)
 
-Deep learning youtubers to follow:
-[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), 
-[siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)       
+### Deep learning youtubers to follow:
+- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), 
+- [siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)       
 
 ## deep learning machine learning blogs:
 
-[medium](https://medium.com); 
-[hacker noon](https://hackernoon.com/))
+- [medium](https://medium.com); 
+- [hacker noon](https://hackernoon.com/))
