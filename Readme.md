@@ -3,7 +3,7 @@
 ### how-to-start
 - [machine learning courses](https://github.com/Emrys-Hong/machine_learning/blob/master/how-to-start/course.md) lists online courses with comments on machine learning
 
-- [machine learning resources](https://github.com/Emrys-Hong/machine_learning/blob/master/how-to-start/resources.md) lists different subfield's in NLP, CV, Reinforcement Learning etc. List their datasets, tutorials, as well as papers published in that subfield.
+- [machine learning subfields](https://github.com/Emrys-Hong/machine_learning/blob/master/how-to-start/resources.md) lists different subfield's in NLP, CV, Reinforcement Learning etc. List their datasets, tutorials, as well as papers published in that subfield.
 
 - [advice on learning machine learning](https://github.com/Emrys-Hong/machine_learning/blob/master/how-to-start/advice_on_ml.md) gives advice on learning sequence and methods, available resources online, and how to merge yourself in this environment.
 
