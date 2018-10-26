@@ -8,7 +8,7 @@ Machine learning can seems daunting, need to organize yourself and learn machine
 1. Taking courses is surely a necessity. but after grasping these concepts, you may want to try several kaggle competition or try to replicate some papers(this is one of the best way to learn according to [Andrew Ng](https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry)), or doing some projects.
 
 1. follow a community to share your thoughts and follow their syllabus to learn AI. learning communities:
-[nuture.ai](https://nurture.ai/), [AISaturday](https://nurture.ai/ai-saturdays), [fast.ai](www.fast.ai)
+[nuture.ai](https://nurture.ai/), [AISaturday](https://nurture.ai/ai-saturdays), [fast.ai](www.fast.ai).
 
 
 Here is some [machine learning advice](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/) by kaggle CTO.
@@ -50,3 +50,16 @@ In conclusion they are:
 14. research papers
 15. tutorials
 16. cheetsheets
+
+## lists of AI projects to reimplement
+[AI project](https://github.com/llSourcell?tab=repositories) from Siraj Raval.
+
+Siraj Raval curated an [awesome list](https://github.com/sindresorhus/awesome) about deep learning projects. These projects have not only datasets but also architectures, can be used  in various AI school prjects, check out [here](https://github.com/NirantK/awesome-project-ideas)
+
+### machine learning interview question
+[Spring board](https://www.springboard.com/blog/machine-learning-interview-questions/)
+
+
+
+### twitter
+people to follow on twitter [quota answer](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information)

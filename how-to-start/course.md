@@ -1,10 +1,58 @@
 ## list of machine learning/Deep learning Platforms&Tutorials
-### General Courses
-[SUTD machine learning notes](https://github.com/Emrys-Hong/machine_learning/tree/master/machine_learning_notes_SUTD):
-math; theory; intuition; basic; a lot of times not so useful in real life
+### Math and data science related to machine learning (Not neccessary for machine learning)
+[data science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
-[coursera machine learning](https://www.coursera.org/learn/machine-learning) [here](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/machine_learning_Ng) for more:
+learn python for basic tools(numpy pandas) for datascience.
+
+Rachel Tomas's [Linear Algebra class](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md).
+learn python for basic tools(numpy pandas) for datascience. 
+
+Math: [introduction to probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) by MIT:
+
+Personally learning all the math before applying machine learning is not a necessity. however, it is good to learn all these concepts for research purposes.
+
+Math: [essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr):
+
+[Three brown one blue](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has the best animations and tells you about the intuitions behind the math. Personally learning all the math before applying machine learning is not a necessity. however, it is good to learn all these concepts for research purposes.
+
+[Math of intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) by Siraj Raval.
+
+[SUTD machine learning notes](https://github.com/Emrys-Hong/machine_learning/tree/master/machine_learning_notes_SUTD) -- Basic machine learning and math:
+Tells about math and theory in basic machine learning models, like back propagation and regression.
+
+### Machine Learning Courses
+
+[coursera machine learning](https://www.coursera.org/learn/machine-learning) --basic machine learning course
+
+click [here](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/machine_learning_Ng) for more advice:
 This course is know as the bible of machine learning. Andrew Ng's classic systematic way covering machine learning models such as regression and vinilla neural networks; This course can teach you a good sense of how math is applied in machine learning. the whole system is applied in matlab. It is good for beginners, but if you want you can watch his deep learning course listed below. There isn't a very big connection between these two courses.
+
+
+This is an insteresting math series can rise your interest in math and fill in the gaps between machine learning.
+
+[Intro to Tensorflow](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV) by Siraj Raval:
+
+Having an overview of Tensorflow library is generally good.
+
+
+Follow [tensorflow youtube channel](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ):
+
+learning how to use Tensorflow.
+
+[Intro to ML](https://eu.udacity.com/course/intro-to-machine-learning--ud120) by Siraj Raval:
+
+
+Jeremy Howard's [Introduction to machine learning for coders](http://course.fast.ai/ml)
+covers Basic ideas and intuitions behind basic machine learning models such as regression and random forest. Lecturer Jeremy Howard is an extremely passionate about machine learning and a leader in machine learning.
+
+some credits to Siraj Raval's [curated list](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+
+### Deep Learning Courses
+[Intro to DeepLearning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3) by Siraj Raval:
+
+Learning deep learning basic concepts like word2vec is useful before touching those overwhelming formulas.
+
+
 
 [coursera deep learning](https://www.deeplearning.ai/) [here](https://github.com/Emrys-Hong/machine_learning/tree/master/coursera/deep_learning_Ng) for more:
 This is one of the most classic entry course for deep learning. The assignments are in keras, so you can familarize yourself with with keras library. The course emphasize on the theory's behind deeplearning, but at the same time each assignment gives a individual project using what you have learned each week; The course will also introduce to a lot of papers, which is good for research.
