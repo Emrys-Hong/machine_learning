@@ -63,3 +63,12 @@ Siraj Raval curated an [awesome list](https://github.com/sindresorhus/awesome) a
 
 ### twitter
 people to follow on twitter [quota answer](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information)
+
+Deep learning youtubers to follow:
+[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), 
+[siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)       
+
+## deep learning machine learning blogs:
+
+[medium](https://medium.com); 
+[hacker noon](https://hackernoon.com/))

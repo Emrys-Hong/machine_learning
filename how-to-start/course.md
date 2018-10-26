@@ -30,14 +30,6 @@ This course is know as the bible of machine learning. Andrew Ng's classic system
 
 This is an insteresting math series can rise your interest in math and fill in the gaps between machine learning.
 
-[Intro to Tensorflow](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV) by Siraj Raval:
-
-Having an overview of Tensorflow library is generally good.
-
-
-Follow [tensorflow youtube channel](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ):
-
-learning how to use Tensorflow.
 
 [Intro to ML](https://eu.udacity.com/course/intro-to-machine-learning--ud120) by Siraj Raval:
 
@@ -72,21 +64,30 @@ looking at the their [forums](https://forums.fast.ai/) and [website](www.fast.ai
 [google machine learning in udacity](https://www.udacity.com/course/deep-learning--ud730), [udacity nano degree in machine learning](https://www.udacity.com/nanodegree):
 This is not cheap
 
-[intel machine learing](https://software.intel.com/en-us/ai-academy/basics)
-
-deep learning youtubers:
-[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), 
-[siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)                 
+[intel machine learing](https://software.intel.com/en-us/ai-academy/basics)          
 
 These channels are individual deep learning project based; It is good for starters.
 
-deep learning machine learning blogs:
 
-[medium](https://medium.com); 
-[hacker noon](https://hackernoon.com/))
+### deep learning library
+1. Tensorflow
+Follow [tensorflow youtube channel](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ):
+
+learning how to use Tensorflow.
+
+[Intro to Tensorflow](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV) by Siraj Raval:
+
+Having an overview of Tensorflow library is generally good.
+1. Keras
+[keras official website](https://keras.io/), good for learning all the models.
 
 
-### Individual courses
+1. pytorch
+[official website](https://pytorch.org/) has [individual tutorials](https://pytorch.org/tutorials/) from basic to advanced topics all implemented in pytorch
+
+Fastai(www.fast.ai)
+
+### subfield courses
 1. Computer Vision:
 
 [Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
@@ -103,6 +104,9 @@ This course is good for learning computer vision systematically. and It is based
 This course is good for learning computer vision systematically. and It is based on Theory.
 These blogs somtimes releases state-of-art implementation of a paper or intuitions behind a concept. get news in machine learning/deep learning from these websites. Good to include them in the google search as well haha.
 
-Chinese Courses:
+[Sequence models](https://www.coursera.org/learn/nlp-sequence-models) from Andrew Ng
+This course is about learning RNN models and attention mechanisms, and practice in keras library.
+
+### Chinese Courses:
 [morvan python](https://morvanzhou.github.io/):
 This course teach basic machine learning model/deep learning model(e.g. MNIST dataset) in various platforms(tensorflow, pytorch, theano etc); The difficulty is entry level, good for beginners.
