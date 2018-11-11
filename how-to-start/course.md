@@ -84,6 +84,9 @@ Comments: These channels are individual deep learning project based; It is good 
 
 Comments: Having an overview of Tensorflow library is generally good.
 
+- [Data camp tutorial](https://www.datacamp.com/community/tutorials/tensorflow-tutorial): covers all the basic concepts about tensorflow
+- [Tensorflow tutorials by Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials), covers the tutorials by topic from keras_API to tensorflow.
+
 1. Keras
 - [keras official website](https://keras.io/)
 
