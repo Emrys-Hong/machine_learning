@@ -50,7 +50,7 @@ pip install tensorflow-gpu==1.5
 ```
 
 ### see tensorflow support version
-![cuda support version](https://github.com/Emrys-Hong/programming_notes/blob/master/mix/cuda/tensorflow_support_version.png)
+![cuda support version](https://github.com/Emrys-Hong/machine_learning/blob/master/utils/tensorflow/tensorflow_support_version.png)
 
 
 ## test
