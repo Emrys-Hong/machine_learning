@@ -15,7 +15,7 @@ with tf.Session() as sess:
     print (sess.run(c))
 ```
 
-Use exact same amount of memory in tensorflow
+### use the exact amount of gpu i need
 ```python
 tfconfig = tf.ConfigProto(allow_soft_placement=True)
 tfconfig.gpu_options.allow_growth=True
