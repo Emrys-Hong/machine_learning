@@ -46,7 +46,7 @@ sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
 ```
 conda create -n tf python=3.6 pip
 source activate tf
-pip install tensorflow-gpu==1.5
+conda install tensorflow-gpu=1.5
 ```
 
 ### see tensorflow support version
