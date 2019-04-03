@@ -4,7 +4,7 @@
 # Components
 
 ## Connective Classifier
-(1) Pitler’s:  https://www.aclweb.org/anthology/P09-2004 \
+(1) Pitler’s:  https://www.aclweb.org/anthology/P09-2004 
 - Cstring       (case-sensitive)
 - self-category: what part of the syntactic feature it functions in the sentence.
 - parent-category: 
@@ -22,7 +22,7 @@ e.g. “After I went to the store, I went home” can be distinguished from the 
 refer to the paper why
 
 
-(2) Lin’s:\
+(2) Lin’s:
 - C POS, 
 - prev1 + C string,  (the first previous word)
 - prev1 POS, 
@@ -35,19 +35,19 @@ refer to the paper why
 `Note : The first seven feature classes model the connective’s context and POS, while the last two are the path from C to the root and the compressed path where adjacent identical tags are combined` \
 e.g. for "after" if it follows a verbing, then it most likely to be a connective.
 
-(3) New: \
+(3) New: 
 - the POS tags of nodes from C’s parent -> root
 - parent-category linked context, 
-- right-sibling-category linked context. \
+- right-sibling-category linked context. 
 
 "link context" mean the POS combination of node, parent, children. it covers more syntactic info.
 
 
 ## Arg1 position Classifier
-(1) Lin’s: \
+(1) Lin’s: 
 - C string, \
 `itself is a good sign, And & and, result in PS and SS`
-- C position (the position of connective C in the sentence: start, middle, or end), \ 
+- C position (the position of connective C in the sentence: start, middle, or end),\
 `when always indicate SS`
 - C POS, 
 - prev1,
@@ -78,17 +78,18 @@ They adopt this method without Joint Inference
 2. added attribution features. TODO: what does it mean
 3. adapting Following features:
 
-(1) Lin: \
+(1) Lin: 
 - lemmatized verbs in curr, 
 - the first term of curr, 
 - the last term of curr,
 - the last term of prev + the first term of curr
-(2) our proposed connective-related features: \
+(2) our proposed connective-related features: 
 - lowercased C string
-- C category TODO: how does it know what category is it.\
+- C category TODO: how does it know what category is it.
 
 `Note: it contains the minimum span of text to clarify for relation` TODO: what does it mean to coding the structure? \
-`Note: the idea here is to capture "connective related information" to capture text span for relation` TODO: maybe more features?  \
+`Note: the idea here is to capture "connective related information" to capture text span for relation`\
+ TODO: maybe more features?  
 
 ### PS Arg2 Extractor
 1. split the sentence( nine punct + conn itself)
@@ -123,7 +124,7 @@ CONN FEATURE
 TODO: why there is no POS tag?
 
 ## Explicit Sense Classifier
-(1) Lin’s features: \
+(1) Lin’s features: 
 1. C string, 
 2. C POS,
 3. prev1 + C 

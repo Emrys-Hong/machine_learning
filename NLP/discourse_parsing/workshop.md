@@ -5,12 +5,13 @@
 - [dataset insights](http://conll15st.blogspot.com/?view=classic)
   
 ## Rule:
-(a) the discourse connective is correctly
+(a) the discourse connective span is correctly
 detected (for Explicit discourse relations) \
 (b) the sense of the discourse connective is correctly
 predicted \
 (c) the text spans of its two arguments
-are correctly predicted (Arg1 and Arg2).
+are correctly predicted (Arg1 and Arg2). (it is a 1-0 mark)\
+it is only a true positive if all the subtasks mentioned above is correct.
 
 
 ## Linguistic Resources:
@@ -26,7 +27,7 @@ Berkeley parser (Petrov and Klein, 2007))
 structure parses using the Stanford converter
 (Manning et al., 2014))
 
-Brown clusters to determine the sense\
+Brown clusters to determine the sense
 
 
 ## Problem framing
@@ -47,7 +48,7 @@ discourse relation identification -> paragraph embeddings or word embeddings.
 System | Learning Methods | Resource used | Paper | Code
 ---    | ---              | ---           | ---   | ---
 ECNU   | MaxEnt and Navie Bayes | Brown clusters, MPQA subjectivity lexicon | https://aclweb.org/anthology/K15-2002 | https://github.com/lanmanok/conll2015_discourse
-University of Trento | CRF++, Ada Boost | Brown clusters, dependency/phrase structure parses |  https://disi.unitn.it/~riccardi/papers2/CoNLL15-UNITNDiscourseParser.pdf | 
+University of Trento | CRF++, Ada Boost | Brown clusters, dependency/phrase structure parses |  https://disi.unitn.it/~riccardi/papers2/CoNLL15-UNITNDiscourseParser.pdf | https://github.com/esrel/DP 
 Soochow | MaxEnt in OpenNLP | VerbNet, MPQA subjectivity lexicon, Brown clusters | https://aclweb.org/anthology/K15-2004 | 
 JAIST | CRF++, LibSVM | syntactic parses, Brown clusters | https://aclweb.org/anthology/K15-2010
 UIUC | LibLinear | Brown cluster, MPQA lexicon | |
