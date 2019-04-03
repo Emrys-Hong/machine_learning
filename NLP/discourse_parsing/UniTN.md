@@ -114,12 +114,10 @@ Experiment tried:
 1. Cartesian product of Brown Cluster of all the tokens from both args.
 2. Cartesian product of Brown Clusters of predicate, subj and deobj and indirect obj.
 
-TODO: search what is Brown clusters.
 
-Relations sense extraction:\
-TODO: What are these words mean?
 
-TODO: what are the examples of each meaning of the word.
+4.6 Relations sense extraction:\
+The Features used are from 3.2, without bag of words and cartesian product of each feature.
 
 `The model misses infrequent senses. and the distribution of senses has a direct effect on its F-measure`\
 `emrys: precision is normally higher than recall, which means once they are able to identify the args, it is ok for them to identify the task`

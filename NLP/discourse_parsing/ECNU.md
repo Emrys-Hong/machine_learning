@@ -155,7 +155,6 @@ used cutoff of 5 for infrequent features
 1. production rules,
 2. dependency rules, 
 3. Brown cluster pairs.
-TODO: see(Rutherford and Xue, 2014). for brown cluster 
 4. first-last, 
 5. first3, 
 6. modality, 
@@ -172,12 +171,12 @@ performed to extract Arg1 for Non-EntRel relations in Non-Explicit, similar to P
 
 1. the first term of curr,
 2. the last term of prev, 
-3. the cross product of the prev and curr production rules,  TODO: why?
+3. the cross product of the prev and curr production rules.
 4. the path of the first term of curr -> the last term of prev, 
 `this one models the syntactic relation between prev and curr`
 5. number of words of curr.
 
-TODO: add dependency parsing will increase?
+Note: There is no dependency parsing here
 
 
 ## Implict Arg2 Extractor

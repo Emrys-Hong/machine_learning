@@ -1,5 +1,9 @@
 9% of all inter-sentential relations Argument 1 is located in non-adjacent previous sentence (Prasad et al., 2008)
 
+See examples for each class at: 
+[Data Annotation guide lines](https://www.seas.upenn.edu/~pdtb/PDTBAPI/pdtb-annotation-manual.pdf)
+
+
 ### Implict classification
 ![pic](images/brown_cluster_data.png)
 
