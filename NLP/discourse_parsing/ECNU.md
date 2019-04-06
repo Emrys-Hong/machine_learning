@@ -4,7 +4,6 @@
 # Components
 
 ## Connective Classifier
-(1) Pitler’s:  https://www.aclweb.org/anthology/P09-2004 
 - Cstring       (case-sensitive)
 - self-category: what part of the syntactic feature it functions in the sentence.
 - parent-category: 
@@ -68,7 +67,6 @@ e.g. for "after" if it follows a verbing, then it most likely to be a connective
 ## Argument extractor
 
 ### SS arg extractor
-TODO: Kong's constituent approach(https://www.aclweb.org/anthology/D14-1008) \
 They adopt this method without Joint Inference
 
 `Intuition: Our intuition is that the two arguments have different syntactic and discourse properties and a unified model with the same feature set used for both may not have enough discriminating power.`

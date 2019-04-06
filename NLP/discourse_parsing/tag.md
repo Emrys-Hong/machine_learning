@@ -70,7 +70,8 @@ VERB| verb
 X| other
 
 Code to get it: https://stackoverflow.com/questions/40288323/what-do-spacys-part-of-speech-and-dependency-tags-mean/40288324
-## depency token
+
+## dependency token
 tag | name
 - | -
 ACL| Clausal modifier of noun
@@ -121,3 +122,32 @@ XCOMP| Open clausal complement
 
 code to get it
 https://stackoverflow.com/questions/40288323/what-do-spacys-part-of-speech-and-dependency-tags-mean/40288324
+
+## syntax tree token
+tag | name
+- | -
+S | sentence
+Det | determiner
+Adj | adjective
+Adv | adverb
+N | Noun
+V | verb
+Pro | pronoun
+P | preposition
+Aux | auxiliary verb
+PP | Preposition phrase
+AdvP | adverb phrase
+AdjP | adjective phrase
+NP | noun phrase
+Verb | verb phrase
+
+Examples: https://www.slideshare.net/Andriyanieka12/10-syntax-syntax-phrases-18509446
+phrase rules: https://www.slideshare.net/Andriyanieka12/10-syntax-syntax-phrases-18509446
+
+## Dependency and constituent
+overview: \
+http://www.shuang0420.com/2017/02/27/NLP%20%E7%AC%94%E8%AE%B0%20-%20Syntax%20Introduction/
+
+Stanford Dependency manual:\
+https://nlp.stanford.edu/software/dependencies_manual.pdf
+
