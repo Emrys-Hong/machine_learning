@@ -27,16 +27,16 @@ dependency parses. \
 ### Features.
 3.1 Token-level Features\
 ![pic](images/UniTN_feat.png)
-Figure1 \
 
-Chunk tag is location, 'B-NP' stands for beginning of the chunk tag\
+
+Chunk tag is location, 'B-NP' stands for beginning of the chunk tag
 
 IOB-chain syntactic tree node from root to the token. ‘I-S/B-VP’ indicates
 that a token is the first word of the verb
 phrase (B-VP) of the main clause (I-S).
 
 
-Dependency chain is root to the word e.g. root/nsubj/det\
+Dependency chain is root to the word e.g. root/nsubj/det
 
 
 Connective label and arg2 label is avoid overlapping.
@@ -53,7 +53,7 @@ CRF token level feat enriched with n grams:
 1,2,3 grams, with window of +- 2 tokens. so there are 5 unigrams, 4 bigrams, 3 trigrams for each token per feature type.
 
 
-3.2 Argument-relation level features\
+3.2 Argument-relation level features
 
 For Non-Explicit Discourse
 Relation Detection and Sense Classification task
