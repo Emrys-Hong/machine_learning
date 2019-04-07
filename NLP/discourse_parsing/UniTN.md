@@ -1,9 +1,9 @@
 ## Reference
-The UniTN Discourse Parser in CoNLL 2015 Shared Task:
-Token-level Sequence Labeling with Argument-specific Models
+[The UniTN Discourse Parser in CoNLL 2015 Shared Task:
+Token-level Sequence Labeling with Argument-specific Models](https://www.aclweb.org/anthology/K15-2003)
 
 ## System architecture
-![img](images/UniTn_arch.png)
+![img](images/UniTN_arch.png)
 
 ## machine learning tools
 CRF: sequence tagging(word level), CRF++
@@ -19,23 +19,26 @@ APC step.
 
 ## Features
 
-### General Features and resources used
-Part-of-Speech tags, constituency
-and dependency parses. \
-These resources
-are used to extract and generate both token-level
-and argument/relation-level features
+### General Features types
+Part-of-Speech tags\
+constituency parses\
+dependency parses. \
 
-### Features in detail.
-Additionally,
-for argument/relation-level features Brown
-Clusters (Turian et al., 2010) are used.
+### Features.
 3.1 Token-level Features\
 ![pic](images/UniTN_feat.png)
 Figure1 \
+
 Chunk tag is location, 'B-NP' stands for beginning of the chunk tag\
-IOB-chain syntactic tree node from root to the token.\
+
+IOB-chain syntactic tree node from root to the token. ‘I-S/B-VP’ indicates
+that a token is the first word of the verb
+phrase (B-VP) of the main clause (I-S).
+
+
 Dependency chain is root to the word e.g. root/nsubj/det\
+
+
 Connective label and arg2 label is avoid overlapping.
 
 Other features explored:
@@ -49,7 +52,9 @@ dependency parse) as a string and binary feature;\
 CRF token level feat enriched with n grams:
 1,2,3 grams, with window of +- 2 tokens. so there are 5 unigrams, 4 bigrams, 3 trigrams for each token per feature type.
 
+
 3.2 Argument-relation level features\
+
 For Non-Explicit Discourse
 Relation Detection and Sense Classification task
 1. Bag-of-Words;
@@ -78,11 +83,12 @@ features);
 ## Features analysis
 
 Note: add the evaluations are done on the dev set.
+
 4.1 Discourse Connective Detection\
 Token level feature with 12 feature from (1,2,3) gram get F1 0.85 \
 adding other features gradually make it to 0.938\
 feature boost most performance: IOB-chain. \
-emrys: this may because position in the sentence distinguish what is its relation with arg1 and arg2. 
+`emrys: this may because position in the sentence distinguish what is its relation with arg1 and arg2.`
 
 4.2 Connective Sense Classification\
 flat classification is better than hierarchary classification \
