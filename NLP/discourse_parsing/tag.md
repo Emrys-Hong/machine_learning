@@ -73,7 +73,7 @@ Code to get it: https://stackoverflow.com/questions/40288323/what-do-spacys-part
 
 ## dependency token
 tag | name
-- | -
+--- | ---
 ACL| Clausal modifier of noun
 ACOMP| Adjectival complement
 ADVCL| Adverbial clause modifier
@@ -125,7 +125,7 @@ https://stackoverflow.com/questions/40288323/what-do-spacys-part-of-speech-and-d
 
 ## syntax tree token
 tag | name
-- | -
+--- | ---
 S | sentence
 Det | determiner
 Adj | adjective
