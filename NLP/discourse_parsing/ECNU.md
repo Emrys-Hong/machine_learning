@@ -5,7 +5,11 @@
 
 ## Connective Classifier
 - Cstring       (case-sensitive)
-- self-category: what part of the syntactic feature it functions in the sentence. ???
+- self-category:\
+the highest node in the tree which dominates the words in the connective.\
+for single word: POS tag of the word\
+for multiple connectives: \
+for example (PP (IN In) (NP (NN addition))) will be PP.
 - parent-category: 
 e.g. you and me, and parent category is an NP.
 - left-sibling-category \
@@ -39,9 +43,10 @@ e.g. for "after" if it follows a verbing, then it most likely to be a connective
 - parent-category linked context, 
 - right-sibling-category linked context. 
 
-"link context" mean the POS combination of node, parent, children. it covers more syntactic info.
+("link context" mean the POS combination of node, parent, children. it covers more syntactic info.)
 
-???ablation study
+![pic](images/ECNU_linked_context_result.png)
+
 
 ## Arg1 position Classifier
 (1) Lin’s: 
@@ -120,8 +125,8 @@ CONN FEATURE
 - path of C’s parent->root, 
 - compressed path of C’s parent -> root.
 
-TODO: why there is no POS tag?
-???
+TODO: why there is no POS tag? DO abalation study!
+
 ## Explicit Sense Classifier
 (1) Lin’s features: 
 1. C string, 
