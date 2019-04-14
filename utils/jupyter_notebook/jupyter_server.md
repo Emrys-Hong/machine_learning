@@ -61,5 +61,20 @@ for more details: https://www.jianshu.com/p/08f276d48669?utm_campaign=maleskine&
 
 
 # second way
-remote host: user@remote_host$ jupyter notebook --no-browser --port=8889
-local host : ssh -N -L localhost:8888:localhost:8889 user@remote_host
+```
+This document is about running jupyter notebook on a server and accessing it on a local machine. 
+
+On the remote machine, start jupyter notebook
+remote_user@remote_host$ ipython notebook --no-browser --port=8889
+
+when the notebook will start, it will generate a token.
+
+
+On the local machine, start SSH tunnel
+
+local_user@local_host$ ssh -N -L localhost:8888:localhost:8889 remote_user@remote_host
+
+it will ask for token which was generated on the remote machine/
+
+go to the browser on local machine and type localhost:8888
+```
